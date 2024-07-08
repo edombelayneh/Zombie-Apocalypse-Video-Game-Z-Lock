@@ -45,3 +45,11 @@ This Video Game was first developed for a class project, however it was modified
 
 - Finally there is the credits.
 <img width="1440" alt="Screenshot 2024-07-07 at 9 44 01 PM" src="https://github.com/edombelayneh/Zombie-Apocalypse-Video-Game-Z-Lock/assets/101343364/aca72730-5191-4037-b1da-388bfbea2c19">
+
+
+## To Execute
+- Download Unity
+- Download this as a zip file
+- Open file in Unity
+- Go to file -> Build and Run
+- It should work!!
