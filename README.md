@@ -25,11 +25,12 @@ This Video Game was first developed for a class project, however it was modified
 
 ## Steps and Some Preview
 - Starts off with a home screen
-<img width="1440" alt="Screenshot 2024-07-07 at 9 40 02 PM" src="https://github.com/edombelayneh/Zombie-Apocalypse-Z-Lock/assets/101343364/e6f9cd68-7284-4373-bb49-4520468439f7">
+<img width="1440" alt="Screenshot 2024-07-07 at 9 40 02 PM" src="https://github.com/edombelayneh/Zombie-Apocalypse-Video-Game-Z-Lock/assets/101343364/a1e9aabc-aecd-4e84-b799-ec5e9993502d">
+
 
 
 - The storyline is told page after page. Here's just a section of it.
-<img width="1440" alt="Screenshot 2024-07-07 at 9 40 49 PM" src="https://github.com/edombelayneh/Zombie-Apocalypse-Z-Lock/assets/101343364/53bc1ba1-7c9e-4d90-af39-a0a85e1031f0">
+<img width="1440" alt="Screenshot 2024-07-07 at 9 40 49 PM" src="https://github.com/edombelayneh/Zombie-Apocalypse-Video-Game-Z-Lock/assets/101343364/3437b954-3212-447d-a96f-cf2199ec7d4e">
 
 
 - Depending on the floor (on the level) the number of Zombies increases and time decreases. There are four objects a player can collect:
@@ -38,9 +39,9 @@ This Video Game was first developed for a class project, however it was modified
   - **A Syringe:** gives user more health and therefore more time.
   - **A Rotten Apple:** gives user less life (less health) and less time.
  
-<img width="1440" alt="Screenshot 2024-07-07 at 9 42 30 PM" src="https://github.com/edombelayneh/Zombie-Apocalypse-Z-Lock/assets/101343364/7c309155-0698-4ee9-b16d-7b018516dd59">
+<img width="1440" alt="Screenshot 2024-07-07 at 9 42 30 PM" src="https://github.com/edombelayneh/Zombie-Apocalypse-Video-Game-Z-Lock/assets/101343364/df6cbb46-4fd0-4e57-8c7b-fbc37b0a88f9">
+
 
 
 - Finally there is the credits.
-<img width="1440" alt="Screenshot 2024-07-07 at 9 44 01 PM" src="https://github.com/edombelayneh/Zombie-Apocalypse-Z-Lock/assets/101343364/5154f469-2439-4cc6-9320-bb194433947a">
-
+<img width="1440" alt="Screenshot 2024-07-07 at 9 44 01 PM" src="https://github.com/edombelayneh/Zombie-Apocalypse-Video-Game-Z-Lock/assets/101343364/aca72730-5191-4037-b1da-388bfbea2c19">
