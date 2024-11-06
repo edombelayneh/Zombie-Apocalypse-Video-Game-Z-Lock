@@ -1,5 +1,6 @@
 # Zombie-Apocalypse Video Game | Z-Lock
 <img src="https://img.shields.io/badge/-Team Project-29cf42?&style=for-the-badge&logoColor=white" />
+
 ## Objective
 
 This Video Game was first developed for a class project, however it was modified further to be what it is today. I worked on this with one other teammate, while I took lead on the programming side, she took responsibility for the art. The storyline of this video game is one of a Zombie Apocalypse. It is a man who is trapped in a maze like building and tries to escape the zombies by trying to get to the 1st floor. All he needs to do is collect the keys and get out of there fast!
